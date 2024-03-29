@@ -1,8 +1,7 @@
 ### Hola 👋, soy Wilmer Guedez (@wguedex)
-#### 🌐 Consultor SAP | ABAP / S4HANA / FIORI / CAP / BTP 
-
-📡 Ingeniero de Telecomunicaciones
-🎓 Certificado en ABAP 7.50.
+#### 🌐 Consultor SAP | ABAP / S4HANA / FIORI / CAP / BTP
+#### 📡 Ingeniero de Telecomunicaciones
+#### 🎓 Certificado en ABAP 7.50.
 
 **🛠️ Habilidades:**
 - **ABAP:**
