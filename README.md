@@ -4,34 +4,36 @@
 #### 🎓 Certificado en ABAP 7.50.
 
 **🛠️ Habilidades:**
+
 - **ABAP:**
-  - 📊 Reportes ALV
-  - 🧱 Programación orientada a objetos
-  - 🧩 Módulos de funciones
-  - 🔗 BAPIs
-  - 🔄 RFCs
+  - ![ALV](https://img.shields.io/badge/-ALV_reports-blue)
+  - ![OOP](https://img.shields.io/badge/-Object_Oriented_Programming-blue)
+  - ![Function Modules](https://img.shields.io/badge/-Function_Modules-blue)
+  - ![BAPI](https://img.shields.io/badge/-BAPIs-blue)
+  - ![RFC](https://img.shields.io/badge/-RFCs-blue)
 - **Fiori / CAP / BTP:**
-  - 🌸 Desarrollo de aplicaciones Fiori
-  - 🔃 RAP (ABAP RESTful Programming Model)
+  - ![Fiori](https://img.shields.io/badge/-Fiori_Development-blue)
+  - ![RAP](https://img.shields.io/badge/-ABAP_RESTful_Programming_Model-blue)
 - **Integraciones:**
-  - 🧼 Servicios web SOAP
-  - 💠 OData
-  - 🌐 API REST
+  - ![SOAP](https://img.shields.io/badge/-SOAP_Web_Services-blue)
+  - ![OData](https://img.shields.io/badge/-OData-blue)
+  - ![REST API](https://img.shields.io/badge/-REST_API-blue)
 - **SAP HANA:**
-  - 🖥️ Vistas CDS
-  - 🗄️ AMDP
-  - 📈 Table Function
+  - ![CDS Views](https://img.shields.io/badge/-CDS_Views-blue)
+  - ![AMDP](https://img.shields.io/badge/-AMDP-blue)
+  - ![Table Function](https://img.shields.io/badge/-Table_Function-blue)
 - **Desarrollo de software:**
-  - 🟢 Node.js
-  - 🔷 TypeScript
-  - 🔺 Angular
-  - 🐍 Python
+  - ![Node.js](https://img.shields.io/badge/-Node.js-green)
+  - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+  - ![Angular](https://img.shields.io/badge/-Angular-red)
+  - ![Python](https://img.shields.io/badge/-Python-yellow)
 
 **🗣️ Idiomas:**
-- 🇪🇸 Español (Nativo)
+- ![Spanish](https://img.shields.io/badge/-Español_(Nativo)-brightgreen)
 
 **🌱 Explorando:**
-- ☁️ Tecnologías cloud y 🖥️ desarrollo frontend aplicado a soluciones SAP.
+- ![Cloud](https://img.shields.io/badge/-Cloud_Technologies-blue)
+- ![Frontend Development](https://img.shields.io/badge/-Frontend_Development_for_SAP-blue)
 
 **🔗 Conéctame en [LinkedIn](https://www.linkedin.com/in/wguedex)**
 
