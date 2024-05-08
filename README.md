@@ -33,4 +33,6 @@
 **🌱 Explorando:**
 - ☁️ Tecnologías cloud y 🖥️ desarrollo frontend aplicado a soluciones SAP.
 
-**🔗 Conéctame en [LinkedIn](www.linkedin.com/in/wguedex)**
+**🔗 Conéctame en [LinkedIn](https://www.linkedin.com/in/wguedex)**
+
+**📚 Echa un vistazo a mis [Gists en GitHub](https://gist.github.com/wguedex) para ver ejemplos de código y más.**
