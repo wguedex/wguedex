@@ -23,7 +23,3 @@
 **🗣️ Idiomas:** ![Spanish](https://img.shields.io/badge/Español-Nativo-brightgreen?style=flat)
 
 **🌱 Explorando:** ![Cloud Technologies](https://img.shields.io/badge/Cloud_Technologies-007ACC?style=flat&logo=cloud)
-
-**🔗 Conéctame en [LinkedIn](https://www.linkedin.com/in/wguedex)**
-
-**📚 Echa un vistazo a mis [Gists en GitHub](https://gist.github.com/wguedex) para ver ejemplos de código y más.**
